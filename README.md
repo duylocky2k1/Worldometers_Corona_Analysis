@@ -1,2 +1,2 @@
 # Worldometers_Corona_Analysis
-Worldometers Data Collection and Data analysis project
+Worldometers Data collection and Data analysis project
